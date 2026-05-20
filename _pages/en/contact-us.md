@@ -12,3 +12,4 @@ Feel free to contact any of [us]({{ site.baseurl }}/about-us.html) directly, or 
 Here is some information on [how to contribute]({{ site.baseurl }}/how-to-contribute.html).
 
 {{ site.data.i18n.general.notices.notice[page.lang]}}
+Could a French translation of this page be added?
